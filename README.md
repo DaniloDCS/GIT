@@ -22,7 +22,7 @@
 ### 3.2 No Git CMD
     3.2.1. copy NUL README.md
     3.2.2. dir para verificar os itens no diretório.
-    3.1.3. code . - Abrir o diretório no editor de texto Visual Studio Code.
+    3.2.3. code . - Abrir o diretório no editor de texto Visual Studio Code.
 
 ## 4. Associando o repositório local ao remoto.
     4.1. git remote add origin https://github.com/seu_nome_de_usuario/desweb.git
